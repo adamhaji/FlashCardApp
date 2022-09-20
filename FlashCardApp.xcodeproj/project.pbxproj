@@ -99,12 +99,9 @@
 		1427CAE628D16F2A0039C6FC /* FlashCardApp */ = {
 			isa = PBXGroup;
 			children = (
-				1427CAE728D16F2A0039C6FC /* AppDelegate.swift */,
-				1427CAE928D16F2A0039C6FC /* SceneDelegate.swift */,
+				1427CB1728D1714D0039C6FC /* Mlsc */,
 				1427CAEB28D16F2A0039C6FC /* ViewController.swift */,
 				1427CAED28D16F2A0039C6FC /* Main.storyboard */,
-				1427CAF028D16F2B0039C6FC /* Assets.xcassets */,
-				1427CAF228D16F2B0039C6FC /* LaunchScreen.storyboard */,
 				1427CAF528D16F2B0039C6FC /* Info.plist */,
 			);
 			path = FlashCardApp;
@@ -125,6 +122,17 @@
 				1427CB0A28D16F2B0039C6FC /* FlashCardAppUITestsLaunchTests.swift */,
 			);
 			path = FlashCardAppUITests;
+			sourceTree = "<group>";
+		};
+		1427CB1728D1714D0039C6FC /* Mlsc */ = {
+			isa = PBXGroup;
+			children = (
+				1427CAF228D16F2B0039C6FC /* LaunchScreen.storyboard */,
+				1427CAF028D16F2B0039C6FC /* Assets.xcassets */,
+				1427CAE928D16F2A0039C6FC /* SceneDelegate.swift */,
+				1427CAE728D16F2A0039C6FC /* AppDelegate.swift */,
+			);
+			path = Mlsc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
