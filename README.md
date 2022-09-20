@@ -1,6 +1,5 @@
 ## FlashCardApp
 
-📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users stories you completed and how your app looked and functioned at each step.
 
 ## Lab 1
 
@@ -9,7 +8,7 @@ Simple Flashcard App that allows user to flip through a flashcard to see the que
 also has different colors (white for question, black for answer) for each side of the card.
 
 ### App Walk-though
-![Flashcard-walkthrough](https://user-images.githubusercontent.com/98361776/191185535-a1e8be0a-c05e-4ea0-a863-f8714a7fb5ce.gif)
+![Flashcard-walkthrough](https://user-images.githubusercontent.com/98361776/191186406-ac3df0f6-6488-4450-bbb9-489d215f7b80.gif)
 
 ## Required
 - [x] Create New Project in Xcode
