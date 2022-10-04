@@ -16,6 +16,7 @@
 		1427CAFF28D16F2B0039C6FC /* FlashCardAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1427CAFE28D16F2B0039C6FC /* FlashCardAppTests.swift */; };
 		1427CB0928D16F2B0039C6FC /* FlashCardAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1427CB0828D16F2B0039C6FC /* FlashCardAppUITests.swift */; };
 		1427CB0B28D16F2B0039C6FC /* FlashCardAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1427CB0A28D16F2B0039C6FC /* FlashCardAppUITestsLaunchTests.swift */; };
+		14EE635528EBE6ED00523955 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14EE635428EBE6ED00523955 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1427CB0428D16F2B0039C6FC /* FlashCardAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FlashCardAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1427CB0828D16F2B0039C6FC /* FlashCardAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashCardAppUITests.swift; sourceTree = "<group>"; };
 		1427CB0A28D16F2B0039C6FC /* FlashCardAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashCardAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		14EE635428EBE6ED00523955 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CreationViewController.swift; path = FlashCardApp/CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		1427CADB28D16F2A0039C6FC = {
 			isa = PBXGroup;
 			children = (
+				14EE635428EBE6ED00523955 /* CreationViewController.swift */,
 				1427CAE628D16F2A0039C6FC /* FlashCardApp */,
 				1427CAFD28D16F2B0039C6FC /* FlashCardAppTests */,
 				1427CB0728D16F2B0039C6FC /* FlashCardAppUITests */,
@@ -269,6 +272,7 @@
 				1427CAEC28D16F2A0039C6FC /* ViewController.swift in Sources */,
 				1427CAE828D16F2A0039C6FC /* AppDelegate.swift in Sources */,
 				1427CAEA28D16F2A0039C6FC /* SceneDelegate.swift in Sources */,
+				14EE635528EBE6ED00523955 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
