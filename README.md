@@ -1,5 +1,24 @@
 ## FlashCardApp
 
+## Lab 3
+
+### App Description
+Flashcard app improved once more to add previous and next button to browse between multiple flashcards. The app also stores previous flashcards made and updates the app to be able to present old flashcards (even if the app is closed). I also personally tweaked some of the code to be able to show the question side even when switching between flashcards; so when a flashcard is presented it will always show the question side first.
+
+### App Walk-though
+![Flashcard-walkthrough3](https://user-images.githubusercontent.com/98361776/194855296-2b92a917-0a07-41ba-a06f-1d23a25bc0c7.gif)
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
+
 ## Lab 2
 
 ### App Description
